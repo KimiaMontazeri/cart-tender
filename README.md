@@ -1,6 +1,6 @@
 # Cart Tender
 
-This is a simple shopping cart microservice implemented in Go using the Echo web framework, GORM, and PostgreSQL as the database for the Internet Engineering course at AUT. 
+This is a simple shopping cart microservice implemented in Go using the Echo web framework, GORM, and PostgreSQL as the database for the Web Engineering course at AUT. 
 The application provides endpoints to manage user accounts and their associated shopping carts.
 
 ## Endpoints
